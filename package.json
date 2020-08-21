@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/fernandobrscunha/album-nodejs.git"
   },
-  "author": "Fernando Bartholomeu",
+  "author": "Fernando Bartholomeu, Carlos Henrique",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/fernandobrscunha/album-nodejs/issues"
